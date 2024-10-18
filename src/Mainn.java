@@ -26,4 +26,3 @@ public class Mainn {
         System.out.println(durum);
     }
 }
-
